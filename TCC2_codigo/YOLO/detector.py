@@ -85,7 +85,7 @@ percentagemROI = 0.2
 # ============================================
 
 if videoA == "s":
-    roi_array_B = np.array([
+    roi_array_A = np.array([
         [1188, 1069],
         [11, 984],
         [1284, 403],
